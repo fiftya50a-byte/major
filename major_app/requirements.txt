@@ -1,0 +1,4 @@
+kivy==2.3.0
+plyer==2.1.0
+kivy_garden.zbarcam==0.1.9
+pyzbar==0.1.9
