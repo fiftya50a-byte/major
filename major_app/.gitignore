@@ -1,8 +1,0 @@
-venv/
-__pycache__/
-*.pyc
-.buildozer/
-bin/
-major.db
-app_settings.json
-.DS_Store
